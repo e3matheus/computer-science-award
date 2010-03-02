@@ -1,6 +1,7 @@
 use compushow;
 
 insert into CATEGORIA (nombreC, descripcion) VALUES ('COMPUPAPI','El mister de la carrera');
+insert into CATEGORIA (nombreC, descripcion) VALUES ('COMPUGALLO','El computista que lo unico que hace es estudiar');
 insert into CATEGORIA (nombreC, descripcion) VALUES ('COMPUMAMI','La miss de la carrera');
 insert into CATEGORIA (nombreC, descripcion) VALUES ('COMPULOVE','Los computistas inseparables');
 insert into CATEGORIA (nombreC, descripcion) VALUES ('COMPUCARTOON','El computista que tiene un doble dibujado');
